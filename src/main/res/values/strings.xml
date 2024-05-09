@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_eve">EveActivity</string>
+    <string name="title_activity_eve2">EveActivity2</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_eve3">EveActivity3</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_school">SchoolActivity</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="title_activity_academics">AcademicsActivity</string>
+    <string name="title_activity_fees">FeesActivity</string>
+    <string name="title_activity_supplies">SuppliesActivity</string>
+</resources>
